@@ -1,12 +1,5 @@
 # AIOptiScale
 
-<div align="center">
-  <img src="logo.svg" alt="AIOptiScale Logo" width="200"/>
-  
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-  [![GitHub Stars](https://img.shields.io/github/stars/AIOptiScale/tools?style=social)](https://github.com/AIOptiScale/tools/stargazers)
-</div>
-
 ## About
 
 AIOptiScale is an open-source organization focused on developing tools and frameworks for optimizing AI models for edge devices and resource-constrained environments.
